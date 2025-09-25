@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "lab_exercise_4",
   "version": "1.0.0",
   "description": "Express routes lab: GET /hello, GET /user, POST /user/:firstname/:lastname, POST /users, static file",
@@ -15,6 +16,41 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
+=======
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "Lab 03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+
+  "keywords": [
+    "sample",
+    "js",
+    "html",
+    "node",
+    "express",
+    "framework",
+    "sinatra",
+    "web",
+    "rest",
+    "restful",
+    "router",
+    "app",
+    "api"
+  ],
+  "author": "Pritesh Patel <sample@gb.ca>",
+  "homepage": "https://nodejs.org/",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+>>>>>>> 8ee33af09f2519335341a0517af853f7d6ead218
   },
   "type": "commonjs"
 }
